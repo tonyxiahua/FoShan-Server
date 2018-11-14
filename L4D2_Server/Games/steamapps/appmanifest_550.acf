@@ -1,0 +1,27 @@
+"AppState"
+{
+	"appid"		"550"
+	"Universe"		"1"
+	"name"		"Left 4 Dead 2"
+	"StateFlags"		"2"
+	"installdir"		"Left 4 Dead 2"
+	"LastUpdated"		"0"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"0"
+	"buildid"		"0"
+	"LastOwner"		"76561198137444744"
+	"BytesToDownload"		"8147289408"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"UserConfig"
+	{
+	}
+	"InstalledDepots"
+	{
+	}
+	"MountedDepots"
+	{
+	}
+}
